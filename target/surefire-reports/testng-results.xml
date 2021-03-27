@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="TestAll" duration-ms="14062" started-at="2021-03-27T07:43:01 IST" finished-at="2021-03-27T07:43:15 IST">
+    <groups>
+    </groups>
+    <test name="First" duration-ms="8029" started-at="2021-03-27T07:43:01 IST" finished-at="2021-03-27T07:43:09 IST">
+      <class name="seleniumeasy.com.testing.InputFormSubmitTest">
+        <test-method status="PASS" signature="testInputFormSubmit()[pri:0, instance:seleniumeasy.com.testing.InputFormSubmitTest@5025a98f]" name="testInputFormSubmit" duration-ms="7562" started-at="2021-03-27T07:43:01 IST" finished-at="2021-03-27T07:43:09 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testInputFormSubmit -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:seleniumeasy.com.testing.InputFormSubmitTest@5025a98f]" name="tearDown" is-config="true" duration-ms="420" started-at="2021-03-27T07:43:09 IST" finished-at="2021-03-27T07:43:09 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- seleniumeasy.com.testing.InputFormSubmitTest -->
+    </test> <!-- First -->
+    <test name="Second" duration-ms="5979" started-at="2021-03-27T07:43:09 IST" finished-at="2021-03-27T07:43:15 IST">
+      <class name="seleniumeasy.com.testing.InputFormSubmitTest1">
+        <test-method status="PASS" signature="testInputFormSubmit()[pri:0, instance:seleniumeasy.com.testing.InputFormSubmitTest1@210366b4]" name="testInputFormSubmit" duration-ms="5977" started-at="2021-03-27T07:43:09 IST" finished-at="2021-03-27T07:43:15 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testInputFormSubmit -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:seleniumeasy.com.testing.InputFormSubmitTest1@210366b4]" name="tearDown" is-config="true" duration-ms="1" started-at="2021-03-27T07:43:15 IST" finished-at="2021-03-27T07:43:15 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- seleniumeasy.com.testing.InputFormSubmitTest1 -->
+    </test> <!-- Second -->
+  </suite> <!-- TestAll -->
+</testng-results>

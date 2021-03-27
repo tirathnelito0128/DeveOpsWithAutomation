@@ -1,0 +1,23 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="TestAll" >
+
+    <test name="First">
+        <classes>
+           
+            <class name="seleniumeasy.com.testing.InputFormSubmitTest" />
+        </classes>
+    </test>
+    
+    <test name="Second">
+        <classes>
+            <class name="seleniumeasy.com.testing.InputFormSubmitTest1" />
+          
+        </classes>
+    </test>
+
+   
+
+</suite>
+
+
